@@ -19,14 +19,14 @@ Las imágenes no se incluyen en el repositorio. El cuaderno espera encontrarlas 
 
 | Archivo | Descripción |
 |---|---|
-| `trabajinho.ipynb` | Cuaderno completo: carga de datos, modelos, configuraciones, comparativa y evaluación en test. |
+| `trabajo_aa2.ipynb` | Cuaderno completo: carga de datos, modelos, configuraciones, comparativa y evaluación en test. |
 | `resultados_configuraciones.csv` | Tabla con todas las configuraciones y sus métricas (se genera al ejecutar el cuaderno). |
 | `README.md` | Este archivo. |
 
 ## Cómo ejecutarlo
 
 1. Subir la carpeta `dataset` a Google Drive dentro de `PROYECTO AA2`.
-2. Abrir `trabajinho.ipynb` en Google Colab y activar la GPU (Entorno de ejecución → Cambiar tipo de entorno de ejecución → T4 GPU).
+2. Abrir `trabajo1_aa2.ipynb` en Google Colab y activar la GPU (Entorno de ejecución → Cambiar tipo de entorno de ejecución → T4 GPU).
 3. Ejecutar todas las celdas (Entorno de ejecución → Ejecutar todo). El cuaderno monta Drive, copia las imágenes redimensionadas al disco local de Colab (la primera vez tarda unos minutos) y entrena todas las configuraciones.
 
 Los pesos del mejor modelo se guardan como `mejor_modelo.pt` y la tabla de resultados como CSV en la carpeta del proyecto de Drive.
