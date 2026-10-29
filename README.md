@@ -16,7 +16,7 @@ Clasificador de pinturas en 7 estilos (Baroque, Cubism, Impressionism, Medieval,
 
 | Ruta | Descripción |
 |---|---|
-| `trabajo1_aa2.ipynb` | Cuaderno completo: datos, modelos, las 10 configuraciones, ResNet-50, comparativa y evaluación en test. |
+| `art_styles_classification.ipynb` | Cuaderno completo: datos, modelos, las 10 configuraciones, ResNet-50, comparativa y evaluación en test. |
 | `resultados_configuraciones.csv` | Tabla de todas las configuraciones (se genera al ejecutar el cuaderno). |
 
 ## Cómo reproducirlo
