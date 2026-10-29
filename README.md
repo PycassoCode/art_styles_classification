@@ -56,4 +56,4 @@ El cuaderno guarda en `PROYECTO AA2` de Drive la tabla `resultados_configuracion
 
 ## Datos
 
-300 imágenes por clase, descargables desde el enlace de arriba. Origen de las imágenes: **completar** (por ejemplo, WikiArt/Kaggle y las fuentes del estilo Medieval). Comprobad la licencia de las imágenes antes de hacer público el repositorio.
+300 imágenes por clase, descargables desde el enlace de arriba. Origen de las imágenes: https://www.kaggle.com/datasets/steubk/wikiart y https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles
