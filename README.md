@@ -17,7 +17,6 @@ Clasificador de pinturas en 7 estilos (Baroque, Cubism, Impressionism, Medieval,
 | Ruta | Descripción |
 |---|---|
 | `trabajo_aa2.ipynb` | Cuaderno completo: datos, modelos, las 10 configuraciones, ResNet-50, comparativa y evaluación en test. |
-| `memoria/` | Memoria en LaTeX (`memoria.tex`) y sus figuras. |
 | `resultados_configuraciones.csv` | Tabla de todas las configuraciones (se genera al ejecutar el cuaderno). |
 
 ## Cómo reproducirlo
